@@ -1,2 +1,2 @@
-# Applied-machine-learning-individual-work
-Applying AML in acoustic problem 
+# Applied-machine-learning-
+In this folder you'll find the Acustic-Event-Detection-Challenge
