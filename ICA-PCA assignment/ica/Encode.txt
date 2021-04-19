@@ -1,3 +1,0 @@
-Name,StudentId,Code
-Jan Jager,000123,MatPlotlib
-Rinus Deurbos,123000,LinuxOSGIT
